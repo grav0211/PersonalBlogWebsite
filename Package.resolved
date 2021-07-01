@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "CasperishTheme",
+        "repositoryURL": "https://github.com/sowenjub/CasperishTheme.git",
+        "state": {
+          "branch": "main",
+          "revision": "304741e76057782ca57896e78efb8969a550e4c3",
+          "version": null
+        }
+      },
+      {
         "package": "Codextended",
         "repositoryURL": "https://github.com/johnsundell/codextended.git",
         "state": {
@@ -47,6 +56,24 @@
         }
       },
       {
+        "package": "PythonKit",
+        "repositoryURL": "https://github.com/pvieito/PythonKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "c77231820148515a77e9bba5016a57e5a88ef007",
+          "version": null
+        }
+      },
+      {
+        "package": "ReadingTimePublishPlugin",
+        "repositoryURL": "https://github.com/alexito4/ReadingTimePublishPlugin",
+        "state": {
+          "branch": null,
+          "revision": "7b917d0ee13184c2f0f8afca503dbbdcad6cda21",
+          "version": "0.2.0"
+        }
+      },
+      {
         "package": "ShellOut",
         "repositoryURL": "https://github.com/johnsundell/shellout.git",
         "state": {
@@ -62,6 +89,24 @@
           "branch": null,
           "revision": "801c2878e4c6c5baf32fe132e1f3f3af6f9fd1b0",
           "version": "0.4.0"
+        }
+      },
+      {
+        "package": "SwiftPygments",
+        "repositoryURL": "https://github.com/Ze0nC/SwiftPygments",
+        "state": {
+          "branch": "master",
+          "revision": "c22bcfcc5931db56c971c1d2722de856a8bfaf39",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftPygmentsPublishPlugin",
+        "repositoryURL": "https://github.com/Ze0nC/SwiftPygmentsPublishPlugin",
+        "state": {
+          "branch": null,
+          "revision": "9280f5d55a4a7600cef2e08078ec456ab345904c",
+          "version": null
         }
       }
     ]

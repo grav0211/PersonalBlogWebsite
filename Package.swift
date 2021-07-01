@@ -11,12 +11,13 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0")
+        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0"),
+        .package(name: "CasperishTheme", url: "https://github.com/sowenjub/CasperishTheme.git", .branch("main"))
     ],
     targets: [
         .target(
             name: "PersonalBlogWebsite",
-            dependencies: ["Publish"]
+            dependencies: ["Publish", "CasperishTheme"]
         )
     ]
 )
