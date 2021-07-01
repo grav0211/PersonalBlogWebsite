@@ -28,7 +28,7 @@ struct PersonalBlogWebsite: Website, CasperishWebsite { // 2
     var headerColor = "#424242"
     var cover = ""
     var author = "Arnaud Joubay"
-    var avatar = "http://i.pravatar.cc/300"
+    var avatar = "https://nialkske.sirv.com/Images/profile.jpg"
     var bio = "Swift & Rails Indie Maker"
     var icon = "🏝"
     var newsletterAction = ""
